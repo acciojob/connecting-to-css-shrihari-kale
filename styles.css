@@ -13,8 +13,8 @@ header{
 	font-weight: bold;
 }
 .main{
-	background-color:#f5f5f5;
-	padding:20px;	
+  background-color: rgb(245, 245, 245);
+  padding: "20px";	
 }
 .sidebar{
 	background-color:lightgray;
@@ -23,7 +23,7 @@ header{
 .main-section{
 	display:flex;
 	flex-wrap:nowrap;
-}https://www.svgrepo.com/show/345221/three-dots.svg
+}
 footer{
 	background-color:#e5e5e5;
 	padding:20px;
